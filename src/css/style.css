@@ -1,0 +1,11 @@
+.loginWindow{
+    position: relative;
+    height: 100vh;
+    background-image: url('../img/slider-2.jpg');
+    background-size: cover;
+    overflow: hidden;
+}
+
+.loginForm {
+    background-color: #fff;
+}
